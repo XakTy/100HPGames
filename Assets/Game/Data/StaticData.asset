@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14b29d81309669f41b7eaab5831a9a88, type: 3}
+  m_Name: StaticData
+  m_EditorClassIdentifier: 
+  Levels: {fileID: 11400000, guid: 6bb550dff9e931946b7c81ac5f866266, type: 2}
+  UI: {fileID: 571883779780090454, guid: 667ff98e594a25748bff81da940189b0, type: 3}
+  PlayerPrefab: {fileID: 1977589366156648025, guid: 3266c6bb17b9ff04ba49c709bd7e42b7, type: 3}
+  BulletPrefab: {fileID: 682907065902858588, guid: e584c30d9f5f15245ba0e1d7950e43e8, type: 3}
+  UpgradePrefab: {fileID: 6481931644503036485, guid: c15ff502e0f11024a904ba927f476850, type: 3}
+  PopUpPrefab: {fileID: 468847043312438802, guid: 4234b77138209fa4cb9db9fa130fd57e, type: 3}
+  EntitiesSpawn:
+  - {fileID: 11400000, guid: 58c03bbce05602b4c9414c3fedef4b9d, type: 2}
+  - {fileID: 11400000, guid: 31d3e47b3d0169a45ad6a7b80989bd1a, type: 2}
+  - {fileID: 11400000, guid: ab04ce64009805046a274fb785b46e5a, type: 2}
+  Stats:
+  - {fileID: 11400000, guid: 7f05464308083cf49a5263b0cadfaab1, type: 2}
+  - {fileID: 11400000, guid: 01b1fd7932317fe47adcc67bb706db74, type: 2}
+  - {fileID: 11400000, guid: 62eec207601414046ad9dde498b10e34, type: 2}
+  - {fileID: 11400000, guid: 287b6d77d7ddb874e97aade0c4415c18, type: 2}
+  - {fileID: 11400000, guid: 3fbc45908c4a84d48943d31e78fb381b, type: 2}
+  Upgrades:
+  - {fileID: 11400000, guid: f9ad7c59bb26e9a4e8e293ce20f10b3f, type: 2}
+  - {fileID: 11400000, guid: 90e3219c6f9132a4daa286f8f8e6aeb8, type: 2}
+  - {fileID: 11400000, guid: e6f62cd04211eaf479b982d112431d40, type: 2}
+  Offset: {x: 1, y: 1}
+  LifeTimeBullet: 8

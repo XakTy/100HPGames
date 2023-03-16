@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlyChicken
+  m_Controller: {fileID: 9100000, guid: c381f0fee21f1e34ba346794c7d3cf02, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -7710415605997073860, guid: 2d446a6bd4bac88488326e11f14e3435, type: 3}
+    m_OverrideClip: {fileID: 2784886819497288330, guid: dd68f4773eb5621408153425132fed5d, type: 3}
